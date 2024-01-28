@@ -1,3 +1,0 @@
-flex a.l
-gcc lex.yy.c
-./a a.l
