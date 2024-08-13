@@ -1,7 +1,0 @@
-Protocol: MyProtocol
-    Request: Request1
-        Field: INT requestId
-        Field: STRING requestData
-    Response: Response1
-        Field: BOOL success
-        Field: STRING responseData
