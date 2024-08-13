@@ -1,0 +1,4 @@
+flex clang.l
+bison -d clang.y
+gcc lex.yy.c clang.tab.c -o clang -lm
+./clang
