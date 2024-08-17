@@ -9,7 +9,7 @@ Statement:
 Using flex as programming language create Lexical Analyzer for *English language*.
 
 ### Folder A3
-Statement:
+Statement: 
 Write flex and bison code to implement *scientific calculator* make sure to include arithmetic and trigonometry operations.
 
 ### Folder A4
